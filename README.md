@@ -20,10 +20,11 @@ This project uses hybrid deep learning models to diagnose Polycystic Ovary Syndr
 
 1. Clone the repository.
 2. Open `pcos_diagnosis.ipynb` in Jupyter Notebook or Google Colab.
-3. Ensure required libraries are installed (TensorFlow, NumPy, Pandas, etc.).
-4. Run the notebook cells step-by-step.
+3. If using Google Colab, **run the notebook cell that mounts Google Drive** before accessing data files.
+4. Make sure to set the correct file paths inside the notebook according to your environment (local or Colab).
+5. Install required libraries (TensorFlow, NumPy, Pandas, etc.).
+6. Run the notebook cells step-by-step.
 
 ## Contact
 
 For questions, reach out to **Chidvi1804**.
-
